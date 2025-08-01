@@ -23,5 +23,5 @@ The layout is designed to be clean, minimal, and fully adaptable to different sc
 
 ---
 
-## 📁 Project Structure
+THIS CODE IS MADE BY NAVYA SIDDHU 
 
